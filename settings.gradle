@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Easy ChatGPT"
+rootProject.name = "ChatBot"
 include ':app'
